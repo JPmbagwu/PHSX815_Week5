@@ -20,7 +20,7 @@ They following python file
 * Circularpython.py 
 * Trap_Gauss_python.py
 
-can be run from the command line by typing:
+can be run from the Command/Terminal line by typing:
 
 `<> python Circularpython.py `
 
