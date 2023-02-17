@@ -2,12 +2,12 @@
 
 These programs are available in this repository:
 
-* Circularpython.py [Python] which uses rejection sampling method to sample uniform random numbers in a 2D and 3D spherical shell.
-* Trap_Gauss_python.py [Python] which compares the trapezoidal rule with the Gaussian Quadrature methods, or numerical integration to evaluate a function in a finite interval.
+* Circularpython.py [Python] which generates uniform random numbers in a 2D and 3D spherical shell using the rejection sampling method.
+* Trap_Gauss_python.py [Python] which contrasts the trapezoidal rule with numerical integration, Gaussian quadrature, and other methods for evaluating a function over a finite range.
 
 # Usage
 
-The usage of two separate plotting libraries necessitates independent download, setup, and installation by users.
+The usage of these separate plotting libraries necessitates independent download, setup, and installation by users.
 
 * matplotlib (python)
 * numpy (pyhon)
