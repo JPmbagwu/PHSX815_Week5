@@ -22,8 +22,7 @@ They following python file
 
 can be run from the command line by typing:
 
-<> python Circularpython.py 
-
-<> python Trap_Gauss_python.py
+`<> python Circularpython.py `
+`<> python Trap_Gauss_python.py`
 
 This requires a working Python distribution (so that the python executable exists) with the Python packages numpy, sympy, scipy.integrate and Matplotlib also installed.
